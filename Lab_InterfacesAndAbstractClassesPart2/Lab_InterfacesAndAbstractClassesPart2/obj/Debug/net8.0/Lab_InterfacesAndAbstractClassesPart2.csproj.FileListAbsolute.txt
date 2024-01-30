@@ -1,0 +1,14 @@
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\bin\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.exe
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\bin\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.deps.json
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\bin\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.runtimeconfig.json
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\bin\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.dll
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\bin\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.pdb
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\obj\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\obj\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.AssemblyInfoInputs.cache
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\obj\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.AssemblyInfo.cs
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\obj\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.csproj.CoreCompileInputs.cache
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\obj\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.dll
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\obj\Debug\net8.0\refint\Lab_InterfacesAndAbstractClassesPart2.dll
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\obj\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.pdb
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\obj\Debug\net8.0\Lab_InterfacesAndAbstractClassesPart2.genruntimeconfig.cache
+C:\Users\Momow\source\repos\OOPS 2\Week 1\Lab_InterfacesAndAbstractClassesPart2\Lab_InterfacesAndAbstractClassesPart2\obj\Debug\net8.0\ref\Lab_InterfacesAndAbstractClassesPart2.dll

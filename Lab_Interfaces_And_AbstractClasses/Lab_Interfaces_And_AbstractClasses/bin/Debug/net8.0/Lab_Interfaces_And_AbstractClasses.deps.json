@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lab_Interfaces_And_AbstractClasses/1.0.0": {
+        "runtime": {
+          "Lab_Interfaces_And_AbstractClasses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lab_Interfaces_And_AbstractClasses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
